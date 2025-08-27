@@ -1,6 +1,5 @@
-#Project-Three
-
-Sales and Revenue Performance Dashboard 📈
+# Project-One
+# Sales Dashboard 📈
 
 
 This interactive dashboard provides a comprehensive overview of a company's sales and revenue performance. It transforms raw sales data into actionable insights, helping stakeholders track key metrics, identify top-performing products, and understand revenue trends.

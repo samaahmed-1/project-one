@@ -2,7 +2,7 @@
 # Sales Dashboard 📈
 
 
-This interactive dashboard provides a comprehensive overview of a company's sales and revenue performance. It transforms raw sales data into actionable insights, helping stakeholders track key metrics, identify top-performing products, and understand revenue trends.
+This project demonstrates a complete data analysis workflow, transforming raw sales data into an interactive business intelligence dashboard. The goal was to provide clear, actionable insights to help the business improve its performance and revenue.
 
 ---
 📸 Visual Preview

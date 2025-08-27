@@ -4,7 +4,7 @@ This interactive dashboard provides a comprehensive overview of a company's sale
 
 📸 Visual Preview
 <p align="center">
-<img width="600" src="https://storage.googleapis.com/assistive-codes-img/Sales%20DASHOARD.jpg" alt="Sales Dashboard Preview">
+<img width="600" src="https://github.com/samaahmed-1/project-one/blob/main/Sales%20DASHOARD.jpg?raw=true" alt="Sales Dashboard Preview">
 </p>
 
 🗂 Data Processing
@@ -18,35 +18,13 @@ The project began with a raw sales dataset that contained various sales and cust
 ✅ Organizing the data for efficient analysis and visualization
 
 📊 Dashboard Features
-Feature
+Total Sales & Net Income: Provides a high-level overview of overall business performance with numeric highlights.
 
-Insight
+Geographic Analysis: Identifies top-performing countries, highlighting key markets with a bar chart.
 
-Visualization
+Temporal Trends: Tracks sales performance across different quarters to reveal trends and seasonality with a line chart.
 
-Total Sales & Net Income
-
-High-level overview of overall business performance.
-
-Numeric Highlight
-
-Geographic Analysis
-
-Identifies top-performing countries, highlighting key markets.
-
-Bar Chart
-
-Temporal Trends
-
-Tracks sales performance across different quarters to reveal trends and seasonality.
-
-Line Chart
-
-Product Insights
-
-Pinpoints "Cash Cow" product categories that generate the most revenue.
-
-Bar Chart
+Product Insights: Pinpoints "Cash Cow" product categories that generate the most revenue with a bar chart.
 
 🔑 Key Insights
 Performance: A clear view of total sales and net income.

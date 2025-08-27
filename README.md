@@ -1,16 +1,16 @@
+#Project-Three
 #Sales and Revenue Performance Dashboard 📈
 
 
 This interactive dashboard provides a comprehensive overview of a company's sales and revenue performance. It transforms raw sales data into actionable insights, helping stakeholders track key metrics, identify top-performing products, and understand revenue trends.
 
 ---
-
 📸 Visual Preview
 <p align="center">
 <img width="600" src="https://github.com/samaahmed-1/project-one/blob/main/Sales%20DASHOARD.jpg?raw=true" alt="Sales Dashboard Preview">
 </p>
----
 
+---
 🗂 Data Processing
 Data Cleaning
 The project began with a raw sales dataset that contained various sales and customer details. The dataset was meticulously cleaned using Microsoft Excel to:
@@ -24,7 +24,6 @@ The project began with a raw sales dataset that contained various sales and cust
 ✅ Aggregate data for key metrics and visualizations
 
 ---
-
 📊 Dashboard Features
 
 | Feature | Insight | Visualization |
@@ -49,5 +48,3 @@ Strategy: Data to inform future marketing and resource allocation decisions, as 
 Data Cleaning & Aggregation: Microsoft Excel
 
 Visualization: Microsoft Excel
-
-Made with ❤️ by Sama Ahmed

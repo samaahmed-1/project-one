@@ -2,7 +2,7 @@
 # Sales Dashboard 📈
 
 
-This project demonstrates a complete data analysis workflow, transforming raw sales data into an interactive business intelligence dashboard. The goal was to provide clear, actionable insights to help the business improve its performance and revenue.
+This interactive sales dashboard provides a comprehensive overview of sales data from 2014 to 2019, offering key insights into total sales, net income, top-performing countries, and the most profitable product categories.
 
 ---
 

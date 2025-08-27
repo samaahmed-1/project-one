@@ -15,15 +15,14 @@ This project demonstrates a complete data analysis workflow, transforming raw sa
 
 # 🗂 Data Processing & Data Cleaning
 
-Began with a raw sales dataset that contained various sales and customer details. The dataset was meticulously cleaned using Microsoft Excel to:
+Excel Data Cleaning
+The raw sales dataset contained various inconsistencies. Excel's built-in features were used to:
 
-✅ Ensure data consistency across all records
+✅ Remove duplicate entries
 
-✅ Remove any irrelevant or corrupt data points
+✅ Correct and standardize data formats
 
-✅ Standardize categorical fields (e.g., countries, categories)
-
-✅ Aggregate data for key metrics and visualizations
+✅ Aggregate data using PivotTables for summary analysis
 
 ---
 
@@ -31,24 +30,27 @@ Began with a raw sales dataset that contained various sales and customer details
 
 | Feature | Insight | Visualization |
 | :--- | :--- | :--- |
-| Average Order Value | Averages the total value of each order. | Numeric Highlight |
-| Total Revenue & Active Customers | High-level overview of overall business performance and customer base. | Numeric Highlights |
-| Top 10 Customers | Identifies the most valuable customers by total revenue. | Bar Chart |
-| Top 10 Products by Revenue | Pinpoints the best-selling products. | Bar Chart |
-| Total Revenue Per Employee | Tracks individual sales performance. | Bar Chart |
-| YTD Revenue | Shows yearly revenue progress across quarters to reveal trends. | Bar Chart |
+| Total Sales & Net Income | 6-year summary of total revenue and profit. | Numeric Highlights |
+| Sales by Year | Shows sales trends and performance over time (2014-2019). | Line Chart |
+| Sales by Country | Highlights the top-performing countries by sales volume. | Bar Chart |
+| Sales by Category | Displays sales distribution across different product categories. | Pie Chart |
+| Cash Cow Category | Identifies the most profitable product categories based on net income and rating. | Bar Chart |
 
 ---
 
 # 🔑 Key Insights
-Performance: A clear view of total revenue and key metrics like active customers and average order value.
 
-Growth Drivers: Identification of top-selling products and top-performing customers.
+Overall Performance: The dashboard reveals a 6-year total sales of $3.38M and a net income of $393.7K.
 
-Strategy: Data to inform future marketing and resource allocation decisions, as well as employee performance evaluation.
+Geographic Focus: The top-performing country, Jordan, significantly contributed to overall sales.
+
+Top Categories: "Women's Fashion" stands out as a top-performing category in terms of both total sales and net income.
 
 ---
-⚙️ Tools & Technologies
-Data Cleaning & Aggregation: Microsoft Excel
+# ⚙️ Tools & Technologies
+
+Data Cleaning & Analysis: Microsoft Excel
 
 Visualization: Microsoft Excel
+
+

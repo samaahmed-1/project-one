@@ -1,7 +1,7 @@
 # Project-One
 Sales Dashboard - A Data-Driven Sales Performance Analysis 📈
 <p align="center">
-  <img width="300" height="150" src="https://placehold.co/300x150/F87171/FFFFFF?text=Sales+Dashboard+Preview" alt="Sales Dashboard Banner">
+  <img width="600" src="https://storage.googleapis.com/assistive-codes-img/Sales%20DASHOARD.jpg" alt="Sales Dashboard Banner">
 </p>
 
 This interactive dashboard provides a comprehensive overview of a company's sales performance. It transforms raw sales data into actionable insights, helping stakeholders track key metrics, identify top-performing products, and understand revenue trends.
@@ -58,6 +58,4 @@ Strategy: Data to inform future marketing and resource allocation decisions.
 ⚙️ Tools & Technologies
 Data Cleaning: Microsoft Excel
 
-Data Visualization: Looker Studio
-
-Made with ❤️ by Sama Ahmed
+Data Visualization: Excel

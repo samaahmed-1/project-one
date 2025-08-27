@@ -1,12 +1,12 @@
 # Project-One
 Sales Dashboard - A Data-Driven Sales Performance Analysis 📈
-<p align="center">
-  <img width="600" src="https://storage.googleapis.com/assistive-codes-img/Sales%20DASHOARD.jpg" alt="Sales Dashboard Banner">
-</p>
-
 This interactive dashboard provides a comprehensive overview of a company's sales performance. It transforms raw sales data into actionable insights, helping stakeholders track key metrics, identify top-performing products, and understand revenue trends.
 
 📸 Visual Preview
+<p align="center">
+<img width="600" src="https://storage.googleapis.com/assistive-codes-img/Sales%20DASHOARD.jpg" alt="Sales Dashboard Preview">
+</p>
+
 🗂 Data Processing
 Data Preparation in Excel
 The project began with a raw sales dataset that contained various sales and customer details. Key data cleaning and preparation steps included:
@@ -15,7 +15,7 @@ The project began with a raw sales dataset that contained various sales and cust
 
 ✅ Removing any irrelevant or corrupt data points
 
-✅ Organizing the data for efficient analysis and import into Looker Studio
+✅ Organizing the data for efficient analysis and visualization
 
 📊 Dashboard Features
 Feature
